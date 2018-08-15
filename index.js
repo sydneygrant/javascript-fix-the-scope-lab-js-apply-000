@@ -5,7 +5,7 @@ function myAnimal(animal) {
 }
 
 
-animal = 'cat';
+// animal = 'cat';
 function yourAnimal(animal) {
 
   // How can we make sure that this function
